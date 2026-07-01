@@ -139,7 +139,7 @@ sudo gophish
 ![Click Button](screenshots/Click%20Phishing%20Button.png)
 
 ### 12. Credential Harvesting – Captured Data
-![Credential Harvesting](screenshots/Screenshot%20Credential.png)
+![Credential Harvesting](screenshots/credential-harvesting.png)
 
 ### 13. Redirect to Original Page – Victim Unaware
 ![Redirect](screenshots/Redirect%20to%20original%20Page.png)
