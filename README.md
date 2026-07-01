@@ -106,45 +106,48 @@ sudo gophish
 ## Screenshots
 
 ### 1. Setting Postfix + Launch GoPhish
-![Postfix Setup](screenshots/Setting-Postfix-Launch.png)
+![Postfix Setup](screenshots/Setting%20postfix%20%2B%20launch.png)
 
 ### 2. Default Credentials – Admin Login
-![Default Credentials](screenshots/Default-Credentials.png)
+![Default Credentials](screenshots/default%20credential%20admin%20gophish.png)
 
 ### 3. HTML Code Used to Generate Instagram Page
-![HTML Code](screenshots/HTML-Code-Instagram.png)
+![HTML Code](screenshots/used%20HTML%20code%20to%20generate%20this%20instagram%20page.png)
 
 ### 4. Phishing Email – "Unusual Login Activity"
-![Phishing Email](screenshots/Phishing-Email.png)
+![Phishing Email](screenshots/Phishing%20Email.png)
 
 ### 5. SMTP Configuration – Postfix
-![SMTP](screenshots/SMTP-Config.png)
+![SMTP](screenshots/SMTP%20Configuration.png)
 
-### 6. Target User + Group
-![Targets](screenshots/Target-User-Group.png)
+### 6. Generate Email Template
+![Generate Email](screenshots/Generate%20Email.png)
 
-### 7. Generate Email Template
-![Generate Email](screenshots/Generate-Email.png)
+### 7. Target User + Group
+![Targets](screenshots/Target%20User%2BGrp.png)
 
-### 8. Email Received – Inbox
+### 8. Launch Campaign
+![Launch Campaign](screenshots/launch-campain.png)
+
+### 9. Email Received – Inbox
 ![Email Received](screenshots/Email-Received.png)
 
-### 9. Inside the Email – Malicious Button
-![Inside Email](screenshots/Inside-Email.png)
+### 10. Inside the Email – Malicious Button
+![Inside Email](screenshots/Inside%20Email.png)
 
-### 10. Click Phishing Button
-![Click Button](screenshots/Click-Phishing-Button.png)
+### 11. Click Phishing Button
+![Click Button](screenshots/Click%20Phishing%20Button.png)
 
-### 11. Credential Harvesting – Captured Data
-![Credential Harvesting](screenshots/Credential-Harvesting.png)
+### 12. Credential Harvesting – Captured Data
+![Credential Harvesting](screenshots/Screenshot%20Credential.png)
 
-### 12. Redirect to Original Page – Victim Unaware
-![Redirect](screenshots/Redirect-Original-Page.png)
+### 13. Redirect to Original Page – Victim Unaware
+![Redirect](screenshots/Redirect%20to%20original%20Page.png)
 
-### 13. Launch + User Clicked
-![Launch](screenshots/Launch-User-Clicked.png)
+### 14. Launch + User Clicked
+![Launch](screenshots/launch%20%2B%20User%20Clicked.png)
 
-### 14. Credential Captured – Submitted Data
+### 15. Credential Captured – Submitted Data
 ![Credential Captured](screenshots/credential-captured.png)
 
 ## Author
