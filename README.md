@@ -145,7 +145,7 @@ sudo gophish
 ![Redirect](screenshots/Redirect%20to%20original%20Page.png)
 
 ### 14. User Clicked
-![User Clicked](screenshots/launch%20%2B%20User%20Clicked.png)
+![User Clicked](screenshots/User%20Clicked)
 
 ### 15. Credential Captured – Submitted Data
 ![Credential Captured](screenshots/credential-captured.png)
