@@ -105,38 +105,38 @@ sudo gophish
 
 ## Screenshots
 
-### 1. HTML Code Used to Generate Instagram Page
-![HTML Code](screenshots/used%20HTML%20code%20to%20generate%20this%20instagram%20page.png)
-
-### 2. Target User + Group
-![Targets](screenshots/Target%20User%2BGrp.png)
-
-### 3. SMTP Configuration – Postfix
-![SMTP](screenshots/SMTP%20Configuration.png)
-
-### 4. Setting Postfix + Launch GoPhish
+### 1. Setting Postfix + Launch GoPhish
 ![Postfix Setup](screenshots/Setting%20postfix%20%2B%20launch.png)
 
-### 5. Launch + User Clicked
-![Launch](screenshots/launch%20%2B%20User%20Clicked.png)
-
-### 6. Generate Email Template
-![Generate Email](screenshots/Generate%20Email.png)
-
-### 7. Phishing Email – "Unusual Login Activity"
-![Phishing Email](screenshots/Phishing%20Email.png)
-
-### 8. Inside the Email – Malicious Button
-![Inside Email](screenshots/Inside%20Email.png)
-
-### 9. Default Credentials – Admin Login
+### 2. Default Credentials – Admin Login
 ![Default Credentials](screenshots/default%20credential%20admin%20gophish.png)
 
-### 10. Click Phishing Button
-![Click Button](screenshots/Click%20Phishing%20Button.png)
+### 3. HTML Code Used to Generate Instagram Page
+![HTML Code](screenshots/used%20HTML%20code%20to%20generate%20this%20instagram%20page.png)
 
-### 11. Credential Captured – Submitted Data
-![Credential Captured](screenshots/credential%20captured.png)
+### 4. Phishing Email – "Unusual Login Activity"
+![Phishing Email](screenshots/Phishing%20Email.png)
+
+### 5. SMTP Configuration – Postfix
+![SMTP](screenshots/SMTP%20Configuration.png)
+
+### 6. Target User + Group
+![Targets](screenshots/Target%20User%2BGrp.png)
+
+### 7. Generate Email Template
+![Generate Email](screenshots/Generate%20Email.png)
+
+### 8. Launch + User Clicked
+![Launch](screenshots/launch%20%2B%20User%20Clicked.png)
+
+### 9. Email Received – Inbox
+![Email Received](screenshots/Email%20Received.png)
+
+### 10. Inside the Email – Malicious Button
+![Inside Email](screenshots/Inside%20Email.png)
+
+### 11. Click Phishing Button
+![Click Button](screenshots/Click%20Phishing%20Button.png)
 
 ### 12. Screenshot – Credential Harvesting
 ![Credential Harvesting](screenshots/Screenshot%20Credential.png)
@@ -144,8 +144,8 @@ sudo gophish
 ### 13. Redirect to Original Page – Victim Unaware
 ![Redirect](screenshots/Redirect%20to%20original%20Page.png)
 
-### 14. Email Received – Inbox
-![Email Received](screenshots/Email%20Received.png)
+### 14. Credential Captured – Submitted Data
+![Credential Captured](screenshots/credential%20captured.png)
 
 ## Author
 
