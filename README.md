@@ -144,8 +144,8 @@ sudo gophish
 ### 13. Redirect to Original Page – Victim Unaware
 ![Redirect](screenshots/Redirect%20to%20original%20Page.png)
 
-### 14. Launch + User Clicked
-![Launch](screenshots/launch%20%2B%20User%20Clicked.png)
+### 14. User Clicked
+![User Clicked](screenshots/launch%20%2B%20User%20Clicked.png)
 
 ### 15. Credential Captured – Submitted Data
 ![Credential Captured](screenshots/credential-captured.png)
