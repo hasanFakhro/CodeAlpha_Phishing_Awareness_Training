@@ -67,7 +67,7 @@ sudo gophish
 - Test email sent & confirmed
 
 ### 5. Targeted Victims
-- Created group: *"Instagram Protection"*
+- Created group: *"Test Alert"*
 - Added test email addresses using **TempMail** in Kali Linux for safe testing
 
 ### 6. Launched Campaign
@@ -116,6 +116,6 @@ sudo gophish
 
 ## Author
 
-**Your Name**  
+**Hassan Fakhereldine**  
 Cyber Security Intern @ CodeAlpha  
-[LinkedIn Profile] | [GitHub Profile]
+
